@@ -1,0 +1,9 @@
+name: def
+---
+spring:
+  profiles: live
+name: live
+---
+spring:
+  profiles: test
+name: test

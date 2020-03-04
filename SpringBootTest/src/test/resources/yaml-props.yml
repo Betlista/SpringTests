@@ -1,0 +1,9 @@
+name: t-def
+---
+spring:
+  profiles: live
+name: t-live
+---
+spring:
+  profiles: test
+name: t-test
