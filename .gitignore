@@ -1,3 +1,3 @@
-/SpringBootTest/.idea
-/SpringBootTest/target
-/SpringBootTest/*.iml
+.idea
+target
+*.iml
