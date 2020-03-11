@@ -1,0 +1,3 @@
+# Spring Tests
+
+This repo contains different tests related to Spring I wanted to share e.g. on StackOverflow or so...
