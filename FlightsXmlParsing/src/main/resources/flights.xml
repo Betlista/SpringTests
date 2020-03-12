@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<flightList>
+    <flight>
+        <startLocation>Los Angeles, CA</startLocation>
+        <endLocation>Manchester, NH</endLocation>
+        <date>03-22-2020</date>
+    </flight>
+    <flight>
+        <startLocation>Boston, MA</startLocation>
+        <endLocation>Albany, NY</endLocation>
+        <date>03-20-2020</date>
+    </flight>
+</flightList>
